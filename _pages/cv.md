@@ -31,9 +31,8 @@ Education
 ---
 
 ## Machine Learning Engineer, PUBG <sub><sup>South Korea, Nov. 2018 - Oct. 2020</sup></sub>
-### Developing Recommendation System for PUBG in-game store
-- Developing Deep learning based module for Personalized item recommendation
-- Built a Matrix Factorization based model for CTR optimization, deployed to production
+### Development of Recommendation System for PUBG in-game store
+- Built a Matrix Factorization / Multi-armed bandit based model for CTR optimization, deployed to production
 - Analyzed the model performance based on user reaction with PySpark
 - Participated development and maintenance of serving system built on AWS ECS
 
