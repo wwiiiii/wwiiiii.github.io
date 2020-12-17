@@ -55,16 +55,19 @@ Education
 
 ---
 
-Awards
+Awards & Honors
 ======
-- 5th prize on Samsung Collegiate Programming Cup <sub><sup>(2017, 2019)</sup></sub>
+- 5th prize on Samsung Collegiate Programming Cup <sub><sup>([2017](/images/proof/2017_scpc.jpg), [2019](/images/proof/2019_scpc.jpg))</sup></sub>
 - 25th on Google Kick Start Round E <sub><sup>(2020)</sup></sub>
 - 61st on Google Kick Start Round C <sub><sup>(2019)</sup></sub>
 - 77th on Google Kick Start Round A <sub><sup>(2018)</sup></sub>
-- 3rd prize on LG CODE MONSTER <sub><sup>(2016)</sup></sub>                            
-- 6th Place on ACM-ICPC Asia Daejeon Regional Contest <sub><sup>(2016)</sup></sub>
-- 4th Place on ACM-ICPC Asia Chung Li Regional Contest <sub><sup>(2016)</sup></sub>
-  
+- 3rd prize on LG CODE MONSTER] <sub><sup>([2017](/images/proof/2017_lg.jpg))</sup></sub>                            
+- 6th Place on ACM-ICPC Asia Daejeon Regional Contest <sub><sup>([2016](/images/proof/2016_daejeon.jpg))</sup></sub>
+- 4th Place on ACM-ICPC Asia Chung Li Regional Contest <sub><sup>([2016](/images/proof/2016_taiwan.jpg))</sup></sub>
+  - [Qualified for World Finals](http://blog.sina.com.cn/s/blog_b946da100102x7yw.html) as team `Is this hard mode?`, though not participated.
+- KAIST-LINE Scholarship <sub><sup>([2017](/images/proof/line_scholar.jpg))</sup></sub>
+- Hanseong Sonjaehan Scholarship <sub><sup>([2014](http://sonjaehan.org/))</sup></sub>
+
 ---
 
 Activities
